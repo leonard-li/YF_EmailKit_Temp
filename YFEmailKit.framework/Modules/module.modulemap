@@ -1,0 +1,6 @@
+framework module YFEmailKit {
+  umbrella header "YFEmailKit.h"
+  export *
+
+  module * { export * }
+}
