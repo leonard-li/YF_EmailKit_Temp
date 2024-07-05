@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "YF_Guild_Temp"
+  spec.name         = "YF_EmailKit_Temp"
   spec.version      = "1.0.0"
   spec.summary      = "邮件系统"
 
